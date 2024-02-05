@@ -1,0 +1,3 @@
+Data preprocessing is a crucial step for any machine learning module. 
+This part contains data preprocessing template for both R
+You need to store these .R files in the same directory where .csv file is stored and set the working directory in R. 
